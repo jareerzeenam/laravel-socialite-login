@@ -14,3 +14,7 @@ In this project you can login to the web application using Google, Facebook or G
 ## Learning Laravel Socialite
 
 In addition to typical, form based authentication, Laravel also provides a simple, convenient way to authenticate with OAuth providers using Laravel [Socialite](https://laravel.com/docs/7.x/socialite). Socialite currently supports authentication with Facebook, Twitter, LinkedIn, Google, GitHub, GitLab and Bitbucket.
+
+## Please Note
+
+If the redirect link fails, please check if the redirect url's and the account credentials are set correct in the `.env` and `services.php`

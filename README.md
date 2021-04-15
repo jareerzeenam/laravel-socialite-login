@@ -9,7 +9,7 @@
 
 ## Laravel Socialite Login 
 
-In this project you can login tothe web application using Google, Facebook or GitHub without creating a new account, 
+In this project you can login to the web application using Google, Facebook or GitHub without creating a new account, 
 
 ## Learning Laravel Socialite
 
